@@ -1,4 +1,4 @@
-- Hi I'm Peter
+- Hi I'm Andy Berger
 
 - Expert Test Automation Engineer (JS, C#, Java)
 - Changing back to a Front-end/ Fullstack Developer career at the moment (2022)

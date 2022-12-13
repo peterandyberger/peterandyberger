@@ -1,7 +1,7 @@
 - Hi I'm Andy Berger
 
 - Expert Test Automation Engineer (JS, C#, Java)
-- Changing back to a Front-end/ Fullstack Developer career at the moment (2022)
+- Frontend, FullStack developer (ReactJS, React Native, Angular)
 
 - Enthusiastic and highly self-motivated. At the moment learning Angular after ReactJS and I'm finding it fascinating.
 
